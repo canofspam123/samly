@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+.info-text {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+h2 {
+  font-weight: 400;
+  font-size: 12.8px;
+  color: #F3BF99;
+  margin: 3px;
+}
+h3 {
+  font-weight: 400;
+  font-size: 10px;
+  color: #F5F5F5;
+  margin-top: 7px;
+  margin-bottom: 15px;
+}
+.info-buttons {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.info-button {
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 5px;
+  width: 115px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-text {
+  padding: 3px;
+}
+#email-button {
+  background-color: white;
+}
+#linkedin-button {
+  background-color: #5093E2;
+}
