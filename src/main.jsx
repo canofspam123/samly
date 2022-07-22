@@ -5,6 +5,7 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+    This is all place holder, replace later
     <App />
   </React.StrictMode>
 )
